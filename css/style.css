@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.heading-group{
+    width: 100%;
+}
+
+.heading-group h1{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.heading-img{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: 0;
+}
+
+.nav-container{
+    margin: 20px 0;
+}
+
+.nav-container a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+main{
+    margin-top: 20px;
+}
+
+section,
+article,
+aside{
+    margin: 20px 0;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+hr{
+    margin: 20px 0;
+}
